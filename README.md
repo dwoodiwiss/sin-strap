@@ -11,9 +11,10 @@ Pull the desired branch to suit your needs:
 
 #### Useage
 ``` bash
-git pull https://github.com/dwoodiwiss/sin-strap.git master
+git clone https://github.com/dwoodiwiss/sin-strap.git master
 # or
-git pull https://github.com/dwoodiwiss/sin-strap.git sample-content
+git clone -b sample-content https://github.com/dwoodiwiss/sin-strap.git sample-content
+# then
 bundle
 ```
 
